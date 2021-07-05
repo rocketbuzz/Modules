@@ -109,7 +109,7 @@
          - The following shows the line graph from pivot table. The X- axis represents months of years and the Y- axis represents number of 
 	 theater outcomes.From this graph I can predict which month of year I can expect what type of outcome. 
 
-![](resources/Theater_outcome_by_launch_date.png) 
+![](resources/Theater_Outcomes_vs_Launch.png)
      
         # What are two conclusions you can draw about the Outcomes based on Launch Date?
 
@@ -155,7 +155,7 @@
          Now created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the 
 	 percentage of successful, failed, or canceled projects on the y-axis.The line chart looks like the following:
 
-![](resources/Theater_outcome_based_on_goal.png) 
+![](resources/Outcomes_vs_Goals.png) 
         # What can you conclude about the Outcomes based on Goals?
 
          Conclusion :
