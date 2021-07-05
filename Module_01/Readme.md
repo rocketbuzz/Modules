@@ -75,6 +75,13 @@
          
          -The pivot table looks like this:
 
+         image::: Pivot_table_without_filter.png
+	 
+	 ![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/image/Pivot_table_without_filter.png)     
+
+	 
+	 
+
 
 
 
@@ -92,6 +99,7 @@
          - The final pivot table looks like the following.
 
 
+![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/image/pivot_table_with_theater_filter.png)
 
 
 
@@ -100,10 +108,7 @@
 
          - The following shows the line graph from pivot table. The X- axis represents months of years and the Y- axis represents number of theater outcomes.From this graph I can predict which month of year I can expect what type of outcome. 
 
-
-
-
-
+![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/resources/Theater_outcome_by_launch_date.png) 
 
 
 
@@ -178,11 +183,10 @@
 
 
 
-
          The line chart looks like the following:
 
 
-
+![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/resources/Theater_outcome_based_on_goal.png) 
 
 
 
@@ -194,24 +198,42 @@
          
          For Outcome to be successful 
 
-            maximum success 72% - goal range is 1000 - 4999 
+            maximum success 76%-73% - goal range is upto 4999 
             minimum success 0 % - goal range is 45000-49999
-            medium  success 52% - goal range is 45000-49999  
+        
 
          For outcome to be failed 
           
             maximum failed 100% - goal range is 45000-49999
-            minimum failed 75 % - goal range is 25000-29999
-            medium  failed 49 % - goal range is 5000 - 9999 
+            minimum failed 24 % - 27 %  - goal range is upto 49000
+            
 
-         When the goal is 5000-9999 , 35000-39999, and 40000 - 44999, the outcome is neither successful nor failed (percentage 43 % - 50 %)
+         when goal is upto 4999, success rate is max while when the goal is between 45000 - 49999 the failure is 100% (maximum)
 
-         So, to conclude for Louise who wants to do a play in theater , the best range of goal to be successful is between 1000-4999. She will have to keep her budget below 5000 - 9999, so that her failure medium; no profit no loss . 
+         So, to conclude for Louise who wants to do a play in theater , the best range of goal to be successful is between 1000-4999. She will have to keep her budget below 4999, so that can can be successful 
 
 
      ## What are some limitations of this dataset?
-     
-     
+
+          The limitations could be various such as country (column H) or launching date , or deadline date.
+
+
+     ## What are some other possible tables and/or graphs that we could create?
+
+       The other possible tables or graph could be is bar chart, histogram, pie chart to present this dataset.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![outcome based on goals](https://github.com/rocketbuzz/Modules/blob/fadc10b2ed3b9bc79f4d846ce31b8cf89a50eb4d/Module_01/resources/outcome%20based%20on%20goals.png)     
 
