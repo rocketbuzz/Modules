@@ -211,9 +211,9 @@
 
      ## What are some limitations of this dataset?
      
-     ![alt text](https://github.com/rocketbuzz/Modules/blob/0b9d47cc33436bbad8b387d64cc17883f2709095/Module_01/resources/Screen%20Shot%202021-07-04%20at%2010.45.42%20PM.png)
+     [alt text](https://github.com/rocketbuzz/Modules/blob/0b9d47cc33436bbad8b387d64cc17883f2709095/Module_01/resources/Screen%20Shot%202021-07-04%20at%2010.45.42%20PM.png)
      
-     ![alt text](https://github.com/rocketbuzz/Modules/blob/0b9d47cc33436bbad8b387d64cc17883f2709095/Module_01/resources/Screen%20Shot%202021-07-04%20at%2010.45.42%20PM.png?raw=true)
+     [alt text](https://github.com/rocketbuzz/Modules/blob/0b9d47cc33436bbad8b387d64cc17883f2709095/Module_01/resources/Screen%20Shot%202021-07-04%20at%2010.45.42%20PM.png?raw=true)
 
  
           
