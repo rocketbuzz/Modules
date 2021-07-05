@@ -77,7 +77,7 @@
 
          image::: Pivot_table_without_filter.png
 	 
-	 ![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/image/Pivot_table_without_filter.png)     
+![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/image/Pivot_table_without_filter.png)     
 
 	 
 	 
@@ -222,37 +222,6 @@
 
        The other possible tables or graph could be is bar chart, histogram, pie chart to present this dataset.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-![outcome based on goals](https://github.com/rocketbuzz/Modules/blob/fadc10b2ed3b9bc79f4d846ce31b8cf89a50eb4d/Module_01/resources/outcome%20based%20on%20goals.png)     
-
-
-![outcome based on goals](resources/outcome%20based%20on%20goals.png)
-          
-
-
-
-
-
-
-
-
-
-
-
-
-     ## What are some other possible tables and/or graphs that we could create?
 
 
 
