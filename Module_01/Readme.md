@@ -75,9 +75,7 @@
          
          -The pivot table looks like this:
 
-         image::: Pivot_table_without_filter.png
-	 
-![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/image/Pivot_table_without_filter.png)     
+![](image/Pivot_table_without_filter.png)     
 
 	 
 	 
@@ -99,7 +97,7 @@
          - The final pivot table looks like the following.
 
 
-![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/image/pivot_table_with_theater_filter.png)
+![](image/pivot_table_with_theater_filter.png)
 
 
 
@@ -108,7 +106,7 @@
 
          - The following shows the line graph from pivot table. The X- axis represents months of years and the Y- axis represents number of theater outcomes.From this graph I can predict which month of year I can expect what type of outcome. 
 
-![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/resources/Theater_outcome_by_launch_date.png) 
+![](resources/Theater_outcome_by_launch_date.png) 
 
 
 
@@ -186,7 +184,7 @@
          The line chart looks like the following:
 
 
-![](https://github.com/rocketbuzz/Modules/blob/17f66387534d5f582a48fa1264004c679afa87a4/Module_01/resources/Theater_outcome_based_on_goal.png) 
+![](resources/Theater_outcome_based_on_goal.png) 
 
 
 
