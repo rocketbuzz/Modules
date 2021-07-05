@@ -217,6 +217,12 @@
      ![alt text](resources/Screen%20Shot%202021-07-04%20at%2010.45.42%20PM.png?raw=true)
 
 ![outcome based on goals](Module_01/resources/outcome based on goals.png)
+
+![outcome based on goals](https://github.com/rocketbuzz/Modules/blob/fadc10b2ed3b9bc79f4d846ce31b8cf89a50eb4d/Module_01/resources/outcome%20based%20on%20goals.png)
+
+![outcome based on goals](https://github.com/rocketbuzz/Modules/blob/fadc10b2ed3b9bc79f4d846ce31b8cf89a50eb4d/Module_01/resources/outcome%20based%20on%20goals.png?raw=true)
+
+outcome based on goals
 https://github.com/rocketbuzz/Modules/blob/fadc10b2ed3b9bc79f4d846ce31b8cf89a50eb4d/Module_01/resources/outcome%20based%20on%20goals.png
 
 https://raw.githubusercontent.com/rocketbuzz/Modules/blob/fadc10b2ed3b9bc79f4d846ce31b8cf89a50eb4d/Module_01/resources/outcome%20based%20on%20goals.png
