@@ -156,7 +156,8 @@
 	 percentage of successful, failed, or canceled projects on the y-axis.The line chart looks like the following:
 
 ![](resources/Outcomes_vs_Goals.png) 
-        # What can you conclude about the Outcomes based on Goals?
+      
+      # What can you conclude about the Outcomes based on Goals?
 
          Conclusion :
          
