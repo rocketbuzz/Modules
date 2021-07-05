@@ -218,15 +218,7 @@
 ![outcome based on goals](Modules/blob/fadc10b2ed3b9bc79f4d846ce31b8cf89a50eb4d/Module_01/resources/outcome%20based%20on%20goals.png) 
 
 
-![outcome based on goals](Modules/Module_01/resources/outcome%20based%20on%20goals.png) 
-
-
-![outcome based on goals](Module_01/resources/outcome%20based%20on%20goals.png) 
-
-
 ![outcome based on goals](resources/outcome%20based%20on%20goals.png)
-
-![outcome based on goals](Module_01/resources/outcome based on goals.png)
           
 
 
