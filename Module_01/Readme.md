@@ -96,18 +96,6 @@
 
 ![](image/Pivot_table_without_filter.png)     
 
-	 
-	 
-
-
-
-
-
-
-
-
-
-
 
          - Filter the "Parent Category" to show only the data for "theater."
 
@@ -118,23 +106,12 @@
 
 ![](image/pivot_table_with_theater_filter.png)
 
-
-
-
-
-
          - The following shows the line graph from pivot table. The X- axis represents months of years and the Y- axis represents number of 
 	 theater outcomes.From this graph I can predict which month of year I can expect what type of outcome. 
 
 ![](resources/Theater_outcome_by_launch_date.png) 
-
-
-
-
-
      
         # What are two conclusions you can draw about the Outcomes based on Launch Date?
-
 
           INTEPRETATION : 
 
@@ -165,16 +142,7 @@
 
          - In the “Goal” column, created the following dollar-amount ranges so projects can be grouped based on their goal amount.
 
-
-
-
-
-
-
-
-
-
-
+![](image/Goal.png) 
 
          Used COUNTIFS() functions to populate the "Number Successful," "Number Failed," and "Number Canceled" columns by filtering on the
 	 Kickstarter "outcome" column, on the "goal" amount column using the ranges created in Step 3, and on the "Subcategory" column using 
@@ -187,21 +155,8 @@
          Now created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the 
 	 percentage of successful, failed, or canceled projects on the y-axis.The line chart looks like the following:
 
-
-
-
-
-
-		 
-
-
 ![](resources/Theater_outcome_based_on_goal.png) 
-
-
-
-
         # What can you conclude about the Outcomes based on Goals?
-
 
          Conclusion :
          
@@ -209,7 +164,6 @@
 
             maximum success 76%-73% - goal range is upto 4999 
             minimum success 0 % - goal range is 45000-49999
-        
 
          For outcome to be failed 
           
@@ -230,13 +184,3 @@
      ## What are some other possible tables and/or graphs that we could create?
 
        The other possible tables or graph could be is bar chart, histogram, pie chart to present this dataset.
-
-
-
-
-
-
-
-
-
-
