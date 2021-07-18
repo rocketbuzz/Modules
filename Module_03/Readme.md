@@ -1,3 +1,4 @@
+
 # Modules
 U of T Bootcamp assignment - module 3 
 # PY Poll Election Analysis 
@@ -39,8 +40,9 @@ Following is the list of election outcomes:
 - The **winner** of the election was:
 
     **Diana DeGette**, who received **272,892** number of votes, **73.8%** of the total votes cast in the election.
-	
-
+    
+![election analysis](https://user-images.githubusercontent.com/86299353/126073939-25fdae61-6c53-46d3-a832-f88936a76c0b.PNG)
+![election analysis](Resources/election_analysis.PNG)
 
 ##Election-Audit Summary:
 
