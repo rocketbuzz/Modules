@@ -45,4 +45,4 @@ Following is the list of election outcomes:
 
 ##Election-Audit Summary:
 
-- This code is written in generalized way andcan be used for any election  
+- This code is written in generalized way and can be used for any election.
