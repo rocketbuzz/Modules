@@ -42,3 +42,6 @@ The ranking of Thomas High school dropped from 2nd to 8th amoung total 15 school
 - by School Type: The average math and reading stays the same for both school types, but % goes down particularly for the school type Charter from 94 to 90 for passing math, and from 90 to 87 for overall passing.
 
 
+![election analysis](Resources/Capture1.PNG)
+
+![election analysis](Resources/Capture2.PNG)
