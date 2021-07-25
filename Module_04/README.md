@@ -21,17 +21,19 @@ The Average reading score is bit higher than Average math score .
 It is 81.85579580976001in reading score and 78.93053295099331 for math score .
 The passing reading count is 33158 , while passing math count 28939. out of overall percentage , math percentage is lower than reading .
 
+![election analysis](Resources/Capture1.PNG)
 
 ## How is the school summary affected?
 
 Thomas High school was originally placed at second based on % overall passing, but not even in top 5 anymore after changing. The average score stays the same at 83.4 from math, and increases from 83.8 to 83.9 for reading; however, percetages all go down from 93 to 67 for passing math, and 6 to 4 for passing reading, and 91 to 65 for overall passing.
 
+![election analysis](Resources/Capture2.PNG)
+
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s 
 
-The ranking of Thomas High school dropped from 2nd to 8th amoung total 15 schools.
+The ranking of Thomas High school dropped from 2nd to 13th amoung total 15 schools.
 
-## performance relative to the other schools?
-
+![election analysis](Resources/Capture3.PNG)
 
 ## How does replacing the ninth-grade scores affect the following:
 
@@ -42,6 +44,7 @@ The ranking of Thomas High school dropped from 2nd to 8th amoung total 15 school
 - by School Type: The average math and reading stays the same for both school types, but % goes down particularly for the school type Charter from 94 to 90 for passing math, and from 90 to 87 for overall passing.
 
 
-![election analysis](Resources/Capture1.PNG)
 
-![election analysis](Resources/Capture2.PNG)
+
+
+
