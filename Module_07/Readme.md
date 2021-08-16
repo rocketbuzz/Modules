@@ -16,10 +16,13 @@ The purpose of the new analysis is to write an analysis to help prepare Bobby’
 
 # Summary:
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+All the senior position are going to retire soon and they need to be filled.
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+-57688 senoir eng /saff to retire enough qualified to mentor the next generation 32730 employees.
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+![pyberchallenge](Resources/Retiring_Titles_pic.png)
+
