@@ -6,7 +6,7 @@
 - [Summary](#summary)
 
 ## Overview of Analysis
-The purpose of this analysis was to analyze the island Oahu's weather data so that the client would understand how weather might have an effect a potential surf shop business. The client has mentioned they had once attempted to open a business in Hawaii but lack of understanding the weather and it's effect on the number of customers led to the business failing.
+The purpose of this analysis is to analyze the island Oahu's weather data for client to understand how weather might have an effect a potential surf shop business. The client has mentioned they had once attempted to open a business in Hawaii but lack of understanding the weather and it's effect on the number of customers led to the business failing.
 
 A preliminary analysis was done by checking the past years weather at June and at December which would provide the customer an image of what to expect during a "hot" summer month and a cold "winter" month.
 
