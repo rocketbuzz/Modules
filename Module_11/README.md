@@ -16,17 +16,17 @@ The site was created for fellow UFO enthusiasts where information of various UFO
 
 Under the excerpt is a table with information on various sightings and information such as the date, city, state, country, shape, duration and comments on the sightings. The first five entrees can be seen in figure 2. A filter section is available for those who visit the page to filter through the table based on their preference as shown in figure 3. 
 
-**_FIGURE 1. Excerpt_**
+**_FIGURE 1.
 
 ![Website_Excerpt](images/Website_Excerpt.png)
 
 
-**_FIGURE 2. Sightings Table_**
+**_FIGURE 2. 
 
 ![Table_Excerpt](images/Table_Excerpt.png)
 
 
-**_FIGURE 3. Filter Search_**
+**_FIGURE 3. 
 
 ![Filter_Search](images/Filter_Search.png)
 
@@ -35,7 +35,7 @@ Under the excerpt is a table with information on various sightings and informati
 
 Below is an image showing an example filter process showing sighting in Florida ("fl"), United States where the shape of the UFO seen was identified as a "sphere".
 
-**_FIGURE 4. Filter Example_**
+**_FIGURE 4. 
 
 ![Example_Filter](images/Example_Filter.png)
 
