@@ -26,6 +26,9 @@ Biking Summary Dashboard:
 
 The image below shows a summary dashboard of the data retrieved from Citi Bike.
 
+![Dashboard2](https://user-images.githubusercontent.com/86299353/135916564-433c078a-a754-4d86-b75c-acc47c0f8b96.PNG)
+
+
 The dashboard shows over 2 million people use bikes in one August of 2019 majority of them being male. 
 
 -There are more bikes available in those location
@@ -35,6 +38,9 @@ The dashboard shows over 2 million people use bikes in one August of 2019 majori
 
 
 Checkout Time Dashboard:
+
+![dashboard3](https://user-images.githubusercontent.com/86299353/135916597-beb6fafd-dbb2-40c3-bd73-b08be21ab397.PNG)
+
 
 When looking at the checkout times dashboard, it seems most of the bikes are checked out at the 5 to 6 minute mark of the hour no matter the gender. The graphs also show no matter the gender, the duration of most rides are less than one hour.
 
