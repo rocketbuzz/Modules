@@ -14,6 +14,9 @@ Purpose of Analysis
 
 The purpose of this analysis is to visualize the trends of Citi Bike users in New York City. 
 
+    
+![Dashboard1](Resources/dashboard1.PNG)
+
 Results
 To achieve these results, the City Bike rideshare data for August 2019 201908-citibike-tripdata.csv.zip was used and retrieved from Citi Bike's System Data web page.
 
