@@ -14,11 +14,8 @@ All statistical analysis were performed using R programming language.
 
 ## Linear Regression to Predict MPG
 
-A linear regression was performed on the `MechaCar_mpg.csv` data using the below code resulting in the statistics summary shown in figure 1.
+A linear regression with the `MechaCar_mpg.csv` data 
 
-```
-
-```
 
 **_FIGURE 1. MPG Summary Statistics_**
 
