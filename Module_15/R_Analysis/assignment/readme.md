@@ -19,7 +19,7 @@ A linear regression with the `MechaCar_mpg.csv` data
 
 **_FIGURE 1. MPG Summary Statistics_**
 
-![Linear_regression](C:\Users\Sandeepan Kundu\snigdhaworkspace\github\Modules\Module_15\R_Analysis\assignment\Resources)
+![Linear_regression](file:///C:/Users/Sandeepan%20Kundu/snigdhaworkspace/github/Modules/Module_15/R_Analysis/assignment/Resources/Capture1.PNG)
 
 The r-squared value alone let's us know there is some good amount of correlation between the other variables and the mpg. The p-value results for all the variables lets us know that this is specifically for the *vehicle length* and *ground clearance*.
 
